@@ -1,11 +1,10 @@
  ---
-title: Example Title
+title: Quartz y Obsidian
 draft: false
 tags:
   - example-tag
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+
  
  Documentación para el deploy y más https://quartz.jzhao.xyz/ 
  

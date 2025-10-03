@@ -24,7 +24,7 @@ La capa de servicio depende de la capa web.
 > [!warning] EJB = transaccionales por defecto!
 
 > [!quote] siglas
-> **JSP** = Jakarta Server Pages - **JSP** =Jakarta Server Faces
+> **JSP** = Jakarta Server Pages - **JSF** =Jakarta Server Faces **JSP** =Java Single Pages 
 > **JCDI** = Jakarta Contexts and Dependency Injection
 
 #### Instalar TOMCAT
